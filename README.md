@@ -21,3 +21,9 @@
 ```
 - Given more time, I would switch from using in memory storage to a NoSQL database like MongoDB or DynamoDB for better optimization and persistance of data.
 - calculateExchangeDifference is not needed after implementing the precalculated differences but left for illustration purposes.
+
+### Instructions
+```
+npm ci
+npm run dev
+```
